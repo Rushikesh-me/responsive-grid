@@ -1,5 +1,5 @@
-import React, { lazy, Suspense, useEffect, useState } from 'react';
-import { motion, AnimateSharedLayout, AnimatePresence } from "framer-motion";
+import React, {useState } from 'react';
+import { motion, AnimateSharedLayout} from "framer-motion";
 
 
 function App() {
